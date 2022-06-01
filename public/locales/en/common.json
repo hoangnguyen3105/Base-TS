@@ -1,0 +1,10 @@
+{
+  "common": {
+    "txt_metamask_not_found_title": "MetaMask Not Found",
+    "txt_metamask_not_found_content": "Don't have MetaMask Wallet?",
+    "txt_metamask_not_found_button": "Download MetaMask",
+    "txt_connect_to_metamask": "Connect to MetaMask",
+    "txt_wrong_network_title": "Wrong Network",
+    "txt_wrong_network_content": "Please change network on Metamask to BSC to continue"
+  }
+}
